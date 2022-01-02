@@ -8,7 +8,6 @@ function getCount(str) {
       vowelsCount++;
     }
   });
-  console.log(arr);
   return vowelsCount;
 }
 
